@@ -1,8 +1,21 @@
 # markdown_20230127
 마크다운 설명
 
+### 11. 표 
+|번호|아이디|이름|레벨|이메일|등록일|
+|:--------||:--------||:--------||--------:||:------------------||:-------------:|
+|1|dia|이상무|1|dia@naver.com|2023-01-27|
+
+### 10. 인라인
+문단 중간에 `CODE` 를 넣을 수 있습니다.(고정 폭 폰트를 표시해야 할 때 사용)  
+예를들어 `return render(request, 'pybo/question_detail.html', context)` 처럼
+
+### 9. 강조
+Spring을 만끽하세요.  
+**Spring**을 만끽하세요.
+
 ### 8. 이미지 넣기
-![]()
+![파이참](https://github.com/ASHyeon/markdown_20230127/blob/main/doc/image.png "머였더라")
 
 ### 7. 하이퍼 링크
 [e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
